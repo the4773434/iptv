@@ -4,11 +4,12 @@
 # ===== SPORT =======
 ########################
 
-#EXTINF:-1 tvg-id="Setanta Sports 1 HD" group-title="Спорт"  tvg-logo="https://icon.admuspeh.my/icon/Setanta%20Sports%201%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8565/video-${start}-${duration}.m3u8?token=pHKdsp7M3EbG9nwk" timeshift="7", Setanta Sports 1 HD
+#EXTINF:-1 tvg-id="Setanta Sports 1 HD" group-title="SPORT 🏆"  tvg-logo="https://icon.admuspeh.my/icon/Setanta%20Sports%201%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8565/video-${start}-${duration}.m3u8?token=pHKdsp7M3EbG9nwk" timeshift="7", Setanta Sports 1 HD
 http://cdn.admuspeh.my/8565/video.m3u8?token=pHKdsp7M3EbG9nwk
 
 #EXTINF:-1 group-title="SPORT 🏆",SETANTA SPORT 2 HD
 http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
+
 
 
 
