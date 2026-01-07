@@ -735,10 +735,6 @@ http://cdn.admuspeh.my/8866/video.m3u8?token=pHKdsp7M3EbG9nwk
 http://cdn.admuspeh.my/8867/video.m3u8?token=pHKdsp7M3EbG9nwk
 #EXTINF:-1 tvg-id="CineMan Cartoons 90 FHD" group-title="Детские"  tvg-logo="https://icon.admuspeh.my/icon/Cartoons%2090.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8812/video-${start}-${duration}.m3u8?token=pHKdsp7M3EbG9nwk" timeshift="1", CineMan Cartoons 90 FHD
 http://cdn.admuspeh.my/8812/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="CineMan XXX FHD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/CineMan%20ExExEx.png" catchup-days="0", CineMan XXX FHD
-http://cdn.admuspeh.my/8868/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="CineMan XXX2 FHD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/CineMan%20ExExEx%20TWO.png" catchup-days="0", CineMan XXX2 FHD
-http://cdn.admuspeh.my/8869/video.m3u8?token=pHKdsp7M3EbG9nwk
 #EXTINF:-1 tvg-id="CineMan OLD 4K" group-title="4K"  tvg-logo="https://icon.admuspeh.my/icon/cineman-old4k.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8804/video-${start}-${duration}.m3u8?token=pHKdsp7M3EbG9nwk" timeshift="1", CineMan OLD 4K
 http://cdn.admuspeh.my/8804/video.m3u8?token=pHKdsp7M3EbG9nwk
 #EXTINF:-1 tvg-id="CineMan CCCP 4K" group-title="4K"  tvg-logo="https://icon.admuspeh.my/icon/cineman-sssr4k.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8795/video-${start}-${duration}.m3u8?token=pHKdsp7M3EbG9nwk" timeshift="1", CineMan CCCP 4K
@@ -1425,8 +1421,6 @@ http://cdn.admuspeh.my/8980/video.m3u8?token=pHKdsp7M3EbG9nwk
 http://cdn.admuspeh.my/8888/video.m3u8?token=pHKdsp7M3EbG9nwk
 #EXTINF:-1 tvg-id="BCU VHS HD" group-title="Киноканалы"  tvg-logo="https://icon.admuspeh.my/icon/BCU%20VHS%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8908/video-${start}-${duration}.m3u8?token=pHKdsp7M3EbG9nwk" timeshift="1", BCU VHS HD
 http://cdn.admuspeh.my/8908/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="BCU Charm HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/BCU%20Charm%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8978/video-${start}-${duration}.m3u8?token=pHKdsp7M3EbG9nwk" timeshift="1", BCU Charm HD
-http://cdn.admuspeh.my/8978/video.m3u8?token=pHKdsp7M3EbG9nwk
 #EXTINF:-1 tvg-id="BCU Ultra 4K" group-title="4K"  tvg-logo="https://icon.admuspeh.my/icon/BCU%20Ultra%204K.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8887/video-${start}-${duration}.m3u8?token=pHKdsp7M3EbG9nwk" timeshift="1", BCU Ultra 4K
 http://cdn.admuspeh.my/8887/video.m3u8?token=pHKdsp7M3EbG9nwk
 #EXTINF:-1 tvg-id="BCU Premiere Ultra 4K" group-title="4K"  tvg-logo="https://icon.admuspeh.my/icon/BCU%20Premiere%20Ultra%204K.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8911/video-${start}-${duration}.m3u8?token=pHKdsp7M3EbG9nwk" timeshift="1", BCU Premiere Ultra 4K
@@ -1689,128 +1683,7 @@ http://cdn.admuspeh.my/9077/video.m3u8?token=pHKdsp7M3EbG9nwk
 http://cdn.admuspeh.my/9080/video.m3u8?token=pHKdsp7M3EbG9nwk
 #EXTINF:-1 tvg-id="Kernel TV Счастливого нового года HD" group-title="Киноканалы"  tvg-logo="https://icon.admuspeh.my/icon/kernel_happy_new_year.png" catchup="default" catchup-days="3" catchup-source="http://cdn.admuspeh.my/9084/video-${start}-${duration}.m3u8?token=pHKdsp7M3EbG9nwk" timeshift="3", Kernel TV Счастливого нового года HD
 http://cdn.admuspeh.my/9084/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Шёлк" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/%D0%A8%D1%91%D0%BB%D0%BA.png" catchup-days="0", Шёлк
-http://cdn.admuspeh.my/8129/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Brazzers TV" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Brazzers%20HD.png" catchup-days="0", Brazzers TV
-http://cdn.admuspeh.my/8131/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Brazzers TV Europe" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Brazzers%20TV%20Europe.png" catchup-days="0", Brazzers TV Europe
-http://cdn.admuspeh.my/8407/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Русская ночь" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F%20%D0%9D%D0%BE%D1%87%D1%8C.png" catchup-days="0", Русская ночь
-http://cdn.admuspeh.my/8191/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Playboy TV" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Playboy%20Plus.png" catchup-days="0", Playboy TV
-http://cdn.admuspeh.my/8193/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Private TV" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Private%20HD.png" catchup-days="0", Private TV
-http://cdn.admuspeh.my/8203/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Penthouse Gold HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Penthouse%20Gold%20HD.png" catchup-days="0", Penthouse Gold HD
-http://cdn.admuspeh.my/8342/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Penthouse Reality TV" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Penthouse%20Reality%20TV%20FHD.png" catchup-days="0", Penthouse Reality TV
-http://cdn.admuspeh.my/9248/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Extasy HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Extasy%20HD.png" catchup-days="0", Extasy HD
-http://cdn.admuspeh.my/9234/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Dorcel TV" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/DORCEL%20TV%20FHD.png" catchup-days="0", Dorcel TV
-http://cdn.admuspeh.my/9235/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="ОХ-АХ HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/%D0%9E%D0%A5-%D0%90%D0%A5%20HD.png" catchup-days="0", ОХ-АХ HD
-http://cdn.admuspeh.my/9250/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="XXL" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/XXL.png" catchup-days="0", XXL
-http://cdn.admuspeh.my/9249/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Redlight HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Redlight%20HD%20orig.png" catchup-days="0", Redlight HD
-http://cdn.admuspeh.my/9247/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="KinoXXX" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/KinoXXX.png" catchup-days="0", KinoXXX
-http://cdn.admuspeh.my/9240/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Babes TV HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Babes%20TV%20HD.png" catchup-days="0", Babes TV HD
-http://cdn.admuspeh.my/9252/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Шалун" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/shalun.png" catchup-days="0", Шалун
-http://cdn.admuspeh.my/8343/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Blue Hustler" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Blue%20Hustler.png" catchup-days="0", Blue Hustler
-http://cdn.admuspeh.my/8405/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Vivid Red" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Vivid%20Red%20HD.png" catchup-days="0", Vivid Red
-http://cdn.admuspeh.my/8374/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Vivid Red HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Vivid%20Red%20HD.png" catchup-days="0", Vivid Red HD
-http://cdn.admuspeh.my/8374/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="RED Lips HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Red%20Lips.png" catchup-days="0", RED Lips HD
-http://cdn.admuspeh.my/8030/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Barely Legal TV" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Barely%20Legal%20TV.png" catchup-days="0", Barely Legal TV
-http://cdn.admuspeh.my/8413/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Exxxotica" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/EXXXOTICA%20HD%20orig.png" catchup-days="0", Exxxotica
-http://cdn.admuspeh.my/8414/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Eroxxx HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Eroxxx%20HD.png" catchup-days="0", Eroxxx HD
-http://cdn.admuspeh.my/8415/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Hustler TV" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Hustler%20HD%20Europe.png" catchup-days="0", Hustler TV
-http://cdn.admuspeh.my/8128/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="FRENCHLOVER" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/FrenchLover.png" catchup-days="0", FRENCHLOVER
-http://cdn.admuspeh.my/8393/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="XY Mix" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/XY%20Mix%20HD.png" catchup-days="0", XY Mix
-http://cdn.admuspeh.my/9237/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="XY Max" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/XY%20Max%20HD.png" catchup-days="0", XY Max
-http://cdn.admuspeh.my/9251/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="XY Plus" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/XY%20Plus%201.png" catchup-days="0", XY Plus
-http://cdn.admuspeh.my/9254/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Fap TV 2 HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Fap%20TV%202.png" catchup-days="0", Fap TV 2 HD
-http://cdn.admuspeh.my/9242/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Fap TV 3" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Fap%20TV%203.png" catchup-days="0", Fap TV 3
-http://cdn.admuspeh.my/9243/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Fap TV 4 HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Fap%20TV%204.png" catchup-days="0", Fap TV 4 HD
-http://cdn.admuspeh.my/9244/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Fap TV Anal HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Fap%20TV%20Anal.png" catchup-days="0", Fap TV Anal HD
-http://cdn.admuspeh.my/8407/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Fap TV Parody HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Fap%20TV%20Parody.png" catchup-days="0", Fap TV Parody HD
-http://cdn.admuspeh.my/9177/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Fap TV Teens" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Fap%20TV%20Teens.png" catchup-days="0", Fap TV Teens
-http://cdn.admuspeh.my/9238/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Fap TV Lesbian HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Fap%20TV%20Lesbian.png" catchup-days="0", Fap TV Lesbian HD
-http://cdn.admuspeh.my/9239/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Fap TV Compilation HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Fap%20TV%20Compilation.png" catchup-days="0", Fap TV Compilation HD
-http://cdn.admuspeh.my/9241/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Fap TV BBW HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Fap%20TV%20BBW.png" catchup-days="0", Fap TV BBW HD
-http://cdn.admuspeh.my/9245/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Adult TV Milf HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Milf HD
-http://cdn.admuspeh.my/9255/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Adult TV Blowjob HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Blowjob HD
-http://cdn.admuspeh.my/9264/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Adult TV Big Dick HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Big Dick HD
-http://cdn.admuspeh.my/9256/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Adult TV Big Tits HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Big Tits HD
-http://cdn.admuspeh.my/9257/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Adult TV Fetish HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Fetish HD
-http://cdn.admuspeh.my/9258/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Adult TV Pornstar HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Pornstar HD
-http://cdn.admuspeh.my/9259/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Adult TV Big Ass HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Big Ass HD
-http://cdn.admuspeh.my/9260/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Adult TV Interracial HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Interracial HD
-http://cdn.admuspeh.my/9261/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Adult TV Latina HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Latina HD
-http://cdn.admuspeh.my/9262/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Adult TV POV HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV POV HD
-http://cdn.admuspeh.my/9263/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Adult TV Teen HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Teen HD
-http://cdn.admuspeh.my/9265/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Adult TV Hardcore HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Hardcore HD
-http://cdn.admuspeh.my/9266/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Adult TV Cuckold HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Cuckold HD
-http://cdn.admuspeh.my/9267/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Adult TV Threesome HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Threesome HD
-http://cdn.admuspeh.my/9268/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Adult TV Russian HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Russian HD
-http://cdn.admuspeh.my/9269/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Adult TV Lesbian HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Lesbian HD
-http://cdn.admuspeh.my/9270/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Adult TV Rough HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Rough HD
-http://cdn.admuspeh.my/9271/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Adult TV Gangbang HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Gangbang HD
-http://cdn.admuspeh.my/9272/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Adult TV Anal HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Anal HD
-http://cdn.admuspeh.my/9273/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Adult TV Compilation HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Compilation HD
-http://cdn.admuspeh.my/9274/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Adult TV Brunette HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Brunette HD
-http://cdn.admuspeh.my/9275/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Adult TV Blonde HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Blonde HD
-http://cdn.admuspeh.my/9276/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Adult TV Gay HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Gay HD
-http://cdn.admuspeh.my/9277/video.m3u8?token=pHKdsp7M3EbG9nwk
-#EXTINF:-1 tvg-id="Adult TV Asian HD" group-title="XXX"  tvg-logo="https://icon.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Asian HD
-http://cdn.admuspeh.my/9278/video.m3u8?token=pHKdsp7M3EbG9nwk
+
 #EXTINF:-1 tvg-id="Израиль 9 IL" group-title="Израиль"  tvg-logo="https://icon.admuspeh.my/icon/Channel%209%20HD%20IL.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8107/video-${start}-${duration}.m3u8?token=pHKdsp7M3EbG9nwk" timeshift="14", Израиль 9 IL
 http://cdn.admuspeh.my/8107/video.m3u8?token=pHKdsp7M3EbG9nwk
 #EXTINF:-1 tvg-id="Израиль 9 HD IL" group-title="Израиль"  tvg-logo="https://icon.admuspeh.my/icon/Channel%209%20HD%20IL.png" catchup-days="0", Израиль 9 HD IL
